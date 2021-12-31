@@ -3,7 +3,7 @@ import charity from "../charity_guest.png";
 
 function Charity() {
   return (
-    <div className="container d-flex">
+    <div className="container d-flex charity">
       <div className="cont-text">
         <div className="cont-charity">CHARITIES</div>
         <div className="cont-desc">
