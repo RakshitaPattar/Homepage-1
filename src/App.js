@@ -1,9 +1,10 @@
 import "./App.css";
 import Charity from "./Components/Charity";
+import CharityPage2 from "./Components/Charity_2";
 function App() {
   return (
     <div>
-      <Charity />
+      <CharityPage2 />
     </div>
   );
 }
