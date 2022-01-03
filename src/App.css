@@ -1,7 +1,7 @@
 .container {
   display: flex;
-  background-color: #fff;
-  font-family: Poppins;
+  background-color: rgb(255, 255, 255);
+  font-family: Poppins, sans-serif;
   font-size: 14px;
   line-height: 25px;
   text-decoration: none solid rgb(119, 119, 119);
@@ -10,6 +10,10 @@
   padding: 0 80px 0 80px;
   position: inherit;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  max-height: auto;
 }
 
 .charity .cont-text {
@@ -17,19 +21,26 @@
   flex-direction: column;
   justify-content: center;
   padding-right: 40;
+  max-width: 100%;
+  height: auto;
 }
 
 .charity .cont-image {
   display: flex;
-  width: 50%;
+  width: 40%;
   height: 400;
   justify-content: center;
   align-items: center;
   max-width: 100%;
   height: auto;
-}
-.charity .cont-image img {
   max-width: 100%;
+  height: auto;
+}
+
+.charity .cont-image img {
+  width: 500px;
+  max-width: 100%;
+  min-width: 250px;
   height: auto;
 }
 
@@ -61,7 +72,7 @@
 }
 
 .charity .cont-button-learnmore {
-  font-family: Poppins;
+  font-family: "Poppins", sans-serif;
   font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.13px;
