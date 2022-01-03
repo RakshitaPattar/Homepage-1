@@ -12,6 +12,8 @@ function App() {
   return (
     <div>
       <Charity title_p={title} description={desc} imagesrc={image} />
+      <p>Git test phrase </p>
+      <p>Git test phrase 2</p>
     </div>
   );
 }
