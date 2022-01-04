@@ -1,0 +1,28 @@
+[33m824bd18[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'master' of https://github.com/satyamty102/Homepage
+[33m7c40835[m revertchanges
+[33m3b333ec[m Revert "Slider part"
+[33m8687b35[m Revert "Slider part"
+[33m7fc5e27[m[33m ([m[1;33mtag: Central-Part-Sorted[m[33m)[m Central part edit
+[33m13e372e[m Central changes
+[33mc3e7a79[m Satyam
+[33mcabf376[m Merge pull request #6 from RINCHUTS/central
+[33m97dcc13[m Merge branch 'master' into central
+[33mf615832[m central part changes
+[33m37e907d[m Merge pull request #5 from Aimt-Khot/Silder
+[33mff1b1cf[m Slider part
+[33m1ad1a62[m Merge pull request #4 from RakshitaPattar/BackVideo
+[33m880b351[m Backvideo
+[33me1978ff[m Merge pull request #3 from alok2837/patch-1
+[33me542f5b[m Create Important Command for Footer
+[33m8070101[m Merge pull request #2 from alok2837/branch-Alok
+[33m13c8d9a[m Footer changes by Alok
+[33m3939ead[m Merge pull request #1 from satyamty102/testbranch
+[33m60c1377[m Git test phrase 2
+[33m2e5fed9[m git test changes
+[33me264403[m Applied props for the data contents
+[33m77c13d5[m Set the click event for search using statehook
+[33m485c3bc[m Icon rotation and color
+[33mcdccb61[m Search Bar for Charity page 2
+[33mac0c360[m Change the className to charity
+[33med63637[m Final Charity Component
+[33m0d68c1e[m Initialize project using Create React App
