@@ -3,6 +3,7 @@ import Charity from "./Components/Charity";
 import CharityPage2 from "./Components/Charity_2";
 import Footer from './Components/Footer';
 import Backvideo from "./Components/Backvideo";
+import Slider from "./Components/Slider";
 function App() {
   const title = "CHARITIES";
   const desc =
@@ -15,6 +16,7 @@ function App() {
   return (
     <div>
       <Backvideo/>
+      <Slider/>
       <Charity title_p={title} description={desc} imagesrc={image} />
     	<Footer />
     </div>
