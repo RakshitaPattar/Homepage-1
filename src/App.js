@@ -1,6 +1,7 @@
 import "./App.css";
 import Charity from "./Components/Charity";
 import CharityPage2 from "./Components/Charity_2";
+import Footer from './Components/Footer';
 function App() {
   const title = "CHARITIES";
   const desc =
@@ -14,6 +15,9 @@ function App() {
       <Charity title_p={title} description={desc} imagesrc={image} />
       <p>Git test phrase </p>
       <p>Git test phrase 2</p>
+    <>
+	<Footer />
+	</>
     </div>
   );
 }
