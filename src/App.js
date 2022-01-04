@@ -2,7 +2,16 @@ import "./App.css";
 import Charity from "./Components/Charity";
 import CharityPage2 from "./Components/Charity_2";
 import Footer from './Components/Footer';
+
+import Central from './Components/Central';
+
+
+
+
+
 import Backvideo from "./Components/Backvideo";
+import Slider from "./Components/Slider";
+
 function App() {
   const title = "CHARITIES";
   const desc =
@@ -13,8 +22,16 @@ function App() {
   // const content = "EMPOWERING ATHLETS FOR LIFE"
 
   return (
+
     <div>
+< central>
+       <>
+       <Central/> 
+       </>
+
       <Backvideo/>
+      <Slider/>
+
       <Charity title_p={title} description={desc} imagesrc={image} />
     	<Footer />
     </div>
