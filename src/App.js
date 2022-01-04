@@ -5,8 +5,11 @@ import Footer from "./Components/Footer";
 import Central from "./Components/Central";
 import Backvideo from "./Components/Backvideo";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import Slider from "./Components/Slider";
 
+=======
+>>>>>>> parent of ff1b1cf (Slider part)
 =======
 >>>>>>> parent of ff1b1cf (Slider part)
 function App() {
@@ -27,6 +30,9 @@ function App() {
       <Backvideo />
 =======
       <Backvideo/>
+<<<<<<< HEAD
+>>>>>>> parent of ff1b1cf (Slider part)
+=======
 >>>>>>> parent of ff1b1cf (Slider part)
       <Charity title_p={title} description={desc} imagesrc={image} />
       <Footer />
