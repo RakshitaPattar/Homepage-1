@@ -26,6 +26,8 @@
 }
 
 .charity .cont-image {
+  top : 10%;
+  left:30px;
   display: flex;
   width: 40%;
   height: 400;
