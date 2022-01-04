@@ -1,0 +1,168 @@
+[33mcommit 7fc5e2773611356bda0b9b9bbbae585f74193535[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Tue Jan 4 14:26:56 2022 +0530
+
+    Central part edit
+
+[33mcommit 13e372e5086ae08433835dc06e6603fed84b9acb[m
+Merge: c3e7a79 cabf376
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Tue Jan 4 14:17:35 2022 +0530
+
+    Central changes
+
+[33mcommit c3e7a79788e5912fc33925b17463eb8524c3512e[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Tue Jan 4 14:15:27 2022 +0530
+
+    Satyam
+
+[33mcommit cabf376e44caa8055cf54ef3c63c405d549aa293[m
+Merge: 37e907d 97dcc13
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Tue Jan 4 14:13:00 2022 +0530
+
+    Merge pull request #6 from RINCHUTS/central
+    
+    central part changes
+
+[33mcommit 97dcc13dfd64e8819cd6ef31bf2db828c15aaa52[m
+Merge: f615832 37e907d
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Tue Jan 4 14:12:47 2022 +0530
+
+    Merge branch 'master' into central
+
+[33mcommit f6158321ace2dad166753d6ca441eb4f3013e6a0[m
+Author: RINCHUTS <75778935+RINCHUTS@users.noreply.github.com>
+Date:   Tue Jan 4 13:42:57 2022 +0530
+
+    central part changes
+
+[33mcommit 37e907d5d647221dee52a478d6a9880a26d89910[m
+Merge: 1ad1a62 ff1b1cf
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Tue Jan 4 13:38:07 2022 +0530
+
+    Merge pull request #5 from Aimt-Khot/Silder
+    
+    Slider part
+
+[33mcommit ff1b1cfe256b479150f156fbe628d797c80ed0cd[m
+Author: Aimt-Khot <92216001+Aimt-Khot@users.noreply.github.com>
+Date:   Tue Jan 4 13:35:03 2022 +0530
+
+    Slider part
+
+[33mcommit 1ad1a62a693d333d01ad6f461b105144f9b1ab11[m
+Merge: e1978ff 880b351
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Tue Jan 4 12:37:32 2022 +0530
+
+    Merge pull request #4 from RakshitaPattar/BackVideo
+    
+    Backvideo
+
+[33mcommit 880b351eaf61ead69f4693b31f7e4a5be49a521d[m
+Author: RakshitaPattar <92937697+RakshitaPattar@users.noreply.github.com>
+Date:   Tue Jan 4 12:33:15 2022 +0530
+
+    Backvideo
+
+[33mcommit e1978ffab52299cf88a244d1e1070eec179c4ca8[m
+Merge: 8070101 e542f5b
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Tue Jan 4 10:39:49 2022 +0530
+
+    Merge pull request #3 from alok2837/patch-1
+    
+    Create Important Command for Footer
+
+[33mcommit e542f5ba1cffcd1995fd6f7681a7369237e4c060[m
+Author: ALOK SINGH <92146513+alok2837@users.noreply.github.com>
+Date:   Tue Jan 4 10:38:59 2022 +0530
+
+    Create Important Command for Footer
+
+[33mcommit 8070101eb1bf3d79f56f03af6bf30dd17297354d[m
+Merge: 3939ead 13c8d9a
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Tue Jan 4 10:37:12 2022 +0530
+
+    Merge pull request #2 from alok2837/branch-Alok
+    
+    Footer changes by Alok
+
+[33mcommit 13c8d9a04866e237dfa38030aa6e9b7608735fdb[m
+Author: ALOK SINGH <14109008alok@gmail.com>
+Date:   Tue Jan 4 10:34:36 2022 +0530
+
+    Footer changes by Alok
+
+[33mcommit 3939ead2c5b292dcc37f2bb35562ec3dab370d4b[m
+Merge: e264403 60c1377
+Author: Satyam <54127665+satyamty102@users.noreply.github.com>
+Date:   Mon Jan 3 16:11:43 2022 +0530
+
+    Merge pull request #1 from satyamty102/testbranch
+    
+    git test changes
+
+[33mcommit 60c1377bd9e3c3dea2add06c7ac1cf2f35d9f1cf[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Mon Jan 3 16:10:09 2022 +0530
+
+    Git test phrase 2
+
+[33mcommit 2e5fed99bd1a426f25285bd5a6140b708c560f28[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Mon Jan 3 15:42:27 2022 +0530
+
+    git test changes
+    
+    t
+    
+    qa1
+    qa!
+
+[33mcommit e2644038746271854367e4049bc5d9a29b71482f[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Mon Jan 3 13:43:26 2022 +0530
+
+    Applied props for the data contents
+
+[33mcommit 77c13d59b13ed9ab339f9f074f3738c120132c5f[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Fri Dec 31 16:12:30 2021 +0530
+
+    Set the click event for search using statehook
+
+[33mcommit 485c3bc177abb0b197b1998c01b6f9c3c44bf36d[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Fri Dec 31 15:21:50 2021 +0530
+
+    Icon rotation and color
+
+[33mcommit cdccb613c195851c2de09fc43b86e63b3fc8ec7c[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Fri Dec 31 15:06:42 2021 +0530
+
+    Search Bar for Charity page 2
+
+[33mcommit ac0c360b625d0bc66d68129d6ca2f8b82b344f61[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Fri Dec 31 09:44:57 2021 +0530
+
+    Change the className to charity
+
+[33mcommit ed636376c750831c927c3dbb9e1ec9c3ef0a6aaa[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Thu Dec 30 08:22:35 2021 +0530
+
+    Final Charity Component
+
+[33mcommit 0d68c1e79c08753751305b37e0867e22431cd4fd[m
+Author: Kumar Satyam <satyamty102@gmail.com>
+Date:   Tue Dec 28 10:24:10 2021 +0530
+
+    Initialize project using Create React App
