@@ -22,16 +22,14 @@ function App() {
   // const content = "EMPOWERING ATHLETS FOR LIFE"
 
   return (
-
     <div>
-< central>
+      <Backvideo/>
+      <br></br><br></br><br></br><br></br>
+      <br></br><br></br><br></br><br></br><br></br>
        <>
        <Central/> 
        </>
-
-      <Backvideo/>
       <Slider/>
-
       <Charity title_p={title} description={desc} imagesrc={image} />
     	<Footer />
     </div>
