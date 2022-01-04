@@ -1,0 +1,5 @@
+npm install --save @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-brands-svg-icons
+
+
+
+npm install --save styled-Components
