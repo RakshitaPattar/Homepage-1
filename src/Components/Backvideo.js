@@ -13,7 +13,7 @@ function Backvideo(props) {
         {/* <h1>{props.content_part}</h1> */}
         <h1>
           EMPOWERING <br></br>
-          ATHLETS <br></br>
+          ATHLETES <br></br>
           FOR LIFE
         </h1>
       </div>
