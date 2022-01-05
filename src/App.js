@@ -24,8 +24,7 @@ function App() {
   return (
     <div>
       <Backvideo/>
-      <br></br><br></br><br></br><br></br>
-      <br></br><br></br><br></br><br></br><br></br>
+      
        <>
        <Central/> 
        </>
