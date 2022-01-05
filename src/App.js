@@ -6,6 +6,8 @@ import Footer from "./Components/Footer";
 import Central from "./Components/Central";
 import Backvideo from "./Components/Backvideo";
 import Slider from "./Components/Slider";
+import Header from "./Components/Header";
+import Navbar from "./Components/Navbar";
 import BrandsCarousel from "./Components/BrandsCarousel";
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
 
   return (
     <div>
+      <Header />
+      <Navbar />
       <Backvideo />
       <Central />
       <BrandsCarousel/>
