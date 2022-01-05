@@ -27,7 +27,7 @@
 
 .charity .cont-image {
   display: flex;
-  width: 40%;
+  width: 50%;
   height: 400;
   justify-content: center;
   align-items: center;
@@ -38,7 +38,7 @@
 }
 
 .charity .cont-image img {
-  width: 500px;
+  width: 600px;
   max-width: 100%;
   min-width: 250px;
   height: auto;
@@ -66,7 +66,7 @@
   min-height: auto;
   min-width: auto;
   display: block;
-  font-weight: 500;
+  font-weight: 400;
   max-width: 100%;
   height: auto;
 }
