@@ -1,0 +1,57 @@
+.container-fluid{
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    
+}
+ .title  
+{  
+    text-align: center;
+    padding-top: 10px;    
+    
+}  
+.owl-carosel{
+    display: flex;
+
+}
+.container-slider{
+    margin-top: 30px;
+    padding-top: 10px;
+    }
+.container-a{
+    justify-content: center;
+    align-items: center;
+    }
+.item-5{
+        margin-top: 6px;
+    }
+.button{
+    
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}    
+
+.buttonstyle{
+    
+    width: 150px;
+    height:40px;
+    background-color: #222529;
+    color:white;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold !important;
+    
+  
+    margin: 20px;
+    
+}
+.buttonstyle:hover{
+    background:rgb(65, 64, 64);
+}
+h1{
+    font-size: 30px;
+    font-weight: bold
+    ;
+}
