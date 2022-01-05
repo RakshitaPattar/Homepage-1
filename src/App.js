@@ -1,7 +1,7 @@
 import "./App.css";
 import Charity from "./Components/Charity";
 import CharityPage2 from "./Components/Charity_2";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./Components/Footer";
 import Central from "./Components/Central";
 import Backvideo from "./Components/Backvideo";
@@ -20,16 +20,14 @@ function App() {
   // const content = "EMPOWERING ATHLETS FOR LIFE"
 
   return (
-    <div>
+    <div className="main-container">
       <Header />
       <Navbar />
       <Backvideo />
       <Central />
-      <BrandsCarousel/>
-      <Charity title_p={title} description={desc} imagesrc={image} />
-
       <Slider />
-      
+      <BrandsCarousel />
+      <Charity title_p={title} description={desc} imagesrc={image} />
       <Footer />
     </div>
   );
