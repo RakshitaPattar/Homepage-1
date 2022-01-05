@@ -1,10 +1,12 @@
 import "./App.css";
 import Charity from "./Components/Charity";
 import CharityPage2 from "./Components/Charity_2";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "./Components/Footer";
 import Central from "./Components/Central";
 import Backvideo from "./Components/Backvideo";
 import Slider from "./Components/Slider";
+import BrandsCarousel from "./Components/BrandsCarousel";
 
 function App() {
   const title = "CHARITIES";
@@ -19,8 +21,11 @@ function App() {
     <div>
       <Backvideo />
       <Central />
-      <Slider />
+      <BrandsCarousel/>
       <Charity title_p={title} description={desc} imagesrc={image} />
+
+      <Slider />
+      
       <Footer />
     </div>
   );
