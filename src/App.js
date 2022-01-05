@@ -5,6 +5,8 @@ import Footer from "./Components/Footer";
 import Central from "./Components/Central";
 import Backvideo from "./Components/Backvideo";
 import Slider from "./Components/Slider";
+import Header from "./Components/Header";
+import Navbar from "./Components/Navbar";
 
 function App() {
   const title = "CHARITIES";
@@ -17,6 +19,8 @@ function App() {
 
   return (
     <div>
+      <Header />
+      <Navbar />
       <Backvideo />
       <Central />
       <Slider />
