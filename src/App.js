@@ -1,6 +1,5 @@
 import "./App.css";
 import Charity from "./Components/Charity";
-import CharityPage2 from "./Components/Charity_2";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Footer from "./Components/Footer";
 import Central from "./Components/Central";
